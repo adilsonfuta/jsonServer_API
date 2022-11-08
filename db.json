@@ -1,0 +1,56 @@
+{
+    "products":[
+            {
+                "id":1,
+                "title":"Product 1",
+                "category":"electronics",
+                "price":4000,
+                "description":"This is description about product 1"
+            },
+            {
+                "id":2,
+                "title":"Product 2",
+                "category":"electronics",
+                "price":2000,
+                "description":"This is description about product 2"
+            },
+            {
+                "id":3,
+                "title":"Product 3",
+                "category":"electronics",
+                "price":1000,
+                "description":"This is description about product 3"
+            },
+            {
+                "id":4,
+                "title":"Product 2",
+                "category":"fitness",
+                "price":3000,
+                "description":"This is description about product 4"
+            },
+            {
+                "id":5,
+                "title":"Product 3",
+                "category":"fitness",
+                "price":4000,
+                "description":"This is description about product 5"
+            },
+            {
+                "id":2,
+                "title":"Product 2",
+                "category":"electronics",
+                "price":2000,
+                "description":"This is description about product 2"
+            },
+            {
+                "id":3,
+                "title":"Product 3",
+                "category":"electronics",
+                "price":1000,
+                "description":"This is description about product 3"
+            }
+    ],
+    "reviews":[
+
+    ]
+}
