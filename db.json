@@ -53,21 +53,24 @@
                 "id":8,
                 "title":"Product 8",
                 "category":"furniture",
-                "price":1000,
+                "price":7000,
                 "description":"This is description about product 8"
             },
             {
                 "id":9,
                 "title":"Product 9",
                 "category":"accessories",
-                "price":1000,
+                "price":10000,
                 "description":"This is description about product 9"
             },            {
                 "id":10,
                 "title":"Product 10",
                 "category":"electronics",
-                "price":1000,
-                "description":"This is description about product 10"
+                "price":3000,
+                "description":"This is description about product 10",
+                "discount":{
+                    "type":"shipping"
+                }
             }
     ],
     "reviews":[
@@ -82,7 +85,7 @@
             "id":2,
             "rating":4,
             "comment": "Reviews 2 for product id 1",
-            "productId": 1
+            "productId": 2
         },
         {
             "id":3,
@@ -97,11 +100,17 @@
             "productId": 1
         },
         {
+            "id":5,
+            "rating":3,
+            "comment": "Reviews 1 for product id 3",
+            "productId": 5
+        },
+        {
             "id":6,
             "rating":3,
             "comment": "Reviews 1 for product id 3",
             "productId": 3
-        }    
+        }  
 
     ]
 }

@@ -1,0 +1,563 @@
+{
+	"info": {
+		"_postman_id": "a0ba8d77-7d7f-4fbb-ae13-2787cda68b6b",
+		"name": "JSON-SERVER",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "14037602"
+	},
+	"item": [
+		{
+			"name": "Produtcs-api",
+			"item": [
+				{
+					"name": "Sort_Elements",
+					"item": [
+						{
+							"name": "products_SORT_elements",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products?_sort=price",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products"
+									],
+									"query": [
+										{
+											"key": "_sort",
+											"value": "price"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "products_SORT_elements_PRICE",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products?_sort=price",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products"
+									],
+									"query": [
+										{
+											"key": "_sort",
+											"value": "price"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "products_SORT_elements_PRICE_and_ORDER",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products?_sort=price&_order=desc",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products"
+									],
+									"query": [
+										{
+											"key": "_sort",
+											"value": "price"
+										},
+										{
+											"key": "_order",
+											"value": "desc"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "products_SORT_multiple_elements",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products?_sort=price,category&_order=desc,asc",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products"
+									],
+									"query": [
+										{
+											"key": "_sort",
+											"value": "price,category"
+										},
+										{
+											"key": "_order",
+											"value": "desc,asc"
+										}
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "GET_elements",
+					"item": [
+						{
+							"name": "products_get",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "products_get _by_id",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products/5",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products",
+										"5"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "Filter_elements",
+					"item": [
+						{
+							"name": "products_filter",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products?category=electronics",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products"
+									],
+									"query": [
+										{
+											"key": "category",
+											"value": "electronics"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "products_filter_sub_filter",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products?category=electronics",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products"
+									],
+									"query": [
+										{
+											"key": "category",
+											"value": "electronics"
+										}
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "Operator",
+					"item": [
+						{
+							"name": "products_Operator_GTE_>=",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products?price_gte=5000",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products"
+									],
+									"query": [
+										{
+											"key": "price_gte",
+											"value": "5000"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "products_Operator_NE(NOT_Iqual)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products?id_ne=1",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products"
+									],
+									"query": [
+										{
+											"key": "id_ne",
+											"value": "1"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "products_Operator_LIKE",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products?category_like=^f",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products"
+									],
+									"query": [
+										{
+											"key": "category_like",
+											"value": "^f"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "products_Operator_LTE_<=",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products?price_lte=5000",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products"
+									],
+									"query": [
+										{
+											"key": "price_lte",
+											"value": "5000"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "products_Operator_gte_lte",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products?price_gte=2000&price_lte=5000",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products"
+									],
+									"query": [
+										{
+											"key": "price_gte",
+											"value": "2000"
+										},
+										{
+											"key": "price_lte",
+											"value": "5000"
+										}
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "Full_TextSearch",
+					"item": [
+						{
+							"name": "Full_Text_Search_Elements",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products?q=in",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products"
+									],
+									"query": [
+										{
+											"key": "q",
+											"value": "in"
+										}
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "RelationsShips",
+					"item": [
+						{
+							"name": "RelationsShips_product_and_reviews",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products?_embed=reviews",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products"
+									],
+									"query": [
+										{
+											"key": "_embed",
+											"value": "reviews"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "RelationsShips_product_and_reviews_get_by_id",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/products/1?_embed=reviews",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"products",
+										"1"
+									],
+									"query": [
+										{
+											"key": "_embed",
+											"value": "reviews"
+										}
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Reviews",
+			"item": [
+				{
+					"name": "RelationsShips_Expand",
+					"item": [
+						{
+							"name": "reviews_RelationsShips_Expand",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/reviews?_expand=product",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"reviews"
+									],
+									"query": [
+										{
+											"key": "_expand",
+											"value": "product"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "reviews_RelationsShips_Expand_by_id",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3000/reviews/1?_expand=product",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3000",
+									"path": [
+										"reviews",
+										"1"
+									],
+									"query": [
+										{
+											"key": "_expand",
+											"value": "product"
+										}
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "reviews_get",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/reviews",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"reviews"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "reviews_get_by_id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/reviews/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"reviews",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Home_api",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000"
+				}
+			},
+			"response": []
+		}
+	]
+}
