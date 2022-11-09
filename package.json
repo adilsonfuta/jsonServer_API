@@ -4,8 +4,9 @@
   "description": "jsonServer_API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "server-json": "json-server --watch db.json"
+    "start": "echo \"Error: no test specified\" && exit 1",
+    "server-json": "json-server --watch db.json",
+    "server-json:port": "json-server --watch db.json --port 4000"
   },
   "repository": {
     "type": "git",
