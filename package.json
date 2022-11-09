@@ -7,7 +7,9 @@
     "start": "echo \"Error: no test specified\" && exit 1",
     "server-json": "json-server --watch db.json",
     "server-json:port": "json-server --watch db.json --port 4000",
-    "server-json:router": "json-server --watch db.json --port 4000 --routes routes.json"
+    "server-json:router": "json-server --watch db.json --port 4000 --routes routes.json",
+    "server-json:data": "json-server --watch src/data.js --port 4000 --routes routes.json",
+    "server-json:faker": "json-server --watch src/faker.js --port 4000 --routes routes.json"
   },
   "repository": {
     "type": "git",
@@ -21,6 +23,7 @@
   },
   "homepage": "https://github.com/adilsonfuta/jsonServer_API#readme",
   "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
     "json-server": "^0.17.1"
   }
 }
