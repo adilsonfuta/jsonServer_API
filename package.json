@@ -10,7 +10,7 @@
     "server-json:router": "json-server --watch db.json --port 4000 --routes routes.json",
     "server-json:data": "json-server --watch src/data.js --port 4000 --routes routes.json",
     "server-json:faker1": "json-server --watch src/faker.js --port 4000 --routes routes.json",
-    "server-json:faker": "json-server  --watch faker.js"
+    "json-server:faker": "json-server  --watch faker.js"
   },
   "repository": {
     "type": "git",
