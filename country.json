@@ -1,7 +1,7 @@
 
 
 {
-    "lista": [
+    "paises": [
         {
             "cdPais": 159,
             "noPais": "Afghanistan",
@@ -2271,5 +2271,7 @@
             "dsNacionalidade": "jersiana"
         }
     ],
-    "totalRegistros": 252
+    "totalRegistros": {
+        "qtdpaises":252
+    }
 }
