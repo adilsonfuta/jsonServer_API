@@ -3489,7 +3489,16 @@
       "id": 1,
       "cdPais": 165,
       "name": "Bengo",
-      "cities": ["Ambriz", "Dande", "Icolo et Bengo", "Muxima", "Nambuangongo"]
+      "capital": "Caxito",
+      "cities": [
+        "Ambriz",
+        "Bula Atumba",
+        "Caxito",
+        "Dande",
+        "Dembos",
+        "Nambuangongo",
+        "Pango Aluquém"
+      ]
     },
     {
       "id": 2,
@@ -3497,11 +3506,12 @@
       "cdPais": 165,
       "cities": [
         "Balombo",
+        "Baía Farta",
         "Benguela",
-        "Baia Farta",
         "Bocoio",
+        "Caimbambo",
         "Catumbela",
-        "Chongoroi",
+        "Chongorói",
         "Cubal",
         "Ganda",
         "Lobito"
@@ -3531,8 +3541,7 @@
         "Belize",
         "Buco-Zau",
         "Cabinda",
-        "Cacongo",
-        "Miconje"
+        "Cacongo"
       ]
     },
     {
@@ -3646,14 +3655,14 @@
       "cdPais": 165,
       "name": "Luanda",
       "cities": [
+        "Belas",
         "Cacuaco",
         "Cazenga",
-        "Ingombota",
+        "Ícolo e Bengo",
+        "Luanda",
         "Kilamba Kiaxi",
-        "Maianga",
-        "Rangel",
-        "Samba",
-        "Sambizanga",
+        "Quiçama",
+        "Talatona",
         "Viana"
       ]
     },
@@ -3690,15 +3699,15 @@
       "cdPais": 165,
       "name": "Malanje",
       "cities": [
-        "Cambundi-Catembo",
-        "Cunda-dia-baza",
-        "Cangandala",
+        "Cacuso",
         "Calandula",
-        "Cuaba Nzogo",
+        "Cambundi-Catembo",
+        "Cangandala",
         "Caombo",
-        "Caruzo",
+        "Cuaba Nzoji",
+        "Cunda-Dia-Baze",
         "Luquembo",
-        "Malange",
+        "Malanje",
         "Marimba",
         "Massango",
         "Mucari",
@@ -3713,12 +3722,12 @@
       "cities": [
         "Alto Zambeze",
         "Bundas",
-        "Cameia",
         "Camanongue",
-        "Leua",
-        "Lucano",
+        "Léua",
         "Luau",
+        "Luacano",
         "Luchazes",
+        "Cameia",
         "Moxico"
       ]
     },
@@ -3728,9 +3737,9 @@
       "name": "Namibe",
       "cities": [
         "Bibala",
-        "Camacuio",
-        "Namibe",
-        "Tombwa",
+        "Camucuio",
+        "Moçâmedes",
+        "Tômbua",
         "Virei"
       ]
     },
@@ -3740,18 +3749,19 @@
       "name": "Uíge",
       "cities": [
         "Alto Cauale",
-        "Ambuila",
+        "Ambuíla",
         "Bembe",
         "Buengas",
+        "Bungo",
         "Damba",
-        "Macocola",
+        "Milunga",
         "Mucaba",
         "Negage",
         "Puri",
         "Quimbele",
         "Quitexe",
-        "Songo",
         "Sanza Pombo",
+        "Songo",
         "Uíge",
         "Zombo"
       ]
