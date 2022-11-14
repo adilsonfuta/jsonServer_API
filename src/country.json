@@ -1,0 +1,2275 @@
+
+
+{
+    "lista": [
+        {
+            "cdPais": 159,
+            "noPais": "Afghanistan",
+            "noSigla": "AF",
+            "noPaisBi": null,
+            "nroDdi": "93",
+            "noPaisTrad": "AFEGANISTÃO",
+            "dsNacionalidade": "afegã"
+        },
+        {
+            "cdPais": 160,
+            "noPais": "Aland Islands",
+            "noSigla": "AX",
+            "noPaisBi": null,
+            "nroDdi": null,
+            "noPaisTrad": "Aland Islands",
+            "dsNacionalidade": "alandesa"
+        },
+        {
+            "cdPais": 161,
+            "noPais": "Albania",
+            "noSigla": "AL",
+            "noPaisBi": null,
+            "nroDdi": "+355",
+            "noPaisTrad": "ALBÂNIA",
+            "dsNacionalidade": "albanesa"
+        },
+        {
+            "cdPais": 162,
+            "noPais": "Algeria",
+            "noSigla": "DZ",
+            "noPaisBi": "ARGELIA",
+            "nroDdi": "+213",
+            "noPaisTrad": "ARGÉLIA",
+            "dsNacionalidade": "argelina"
+        },
+        {
+            "cdPais": 163,
+            "noPais": "American Samoa",
+            "noSigla": "AS",
+            "noPaisBi": null,
+            "nroDdi": "1-684",
+            "noPaisTrad": "SAMOA AMERICANA",
+            "dsNacionalidade": "samoana"
+        },
+        {
+            "cdPais": 164,
+            "noPais": "Andorra",
+            "noSigla": "AD",
+            "noPaisBi": null,
+            "nroDdi": "+376",
+            "noPaisTrad": "ANDORA",
+            "dsNacionalidade": "andorriana"
+        },
+        {
+            "cdPais": 165,
+            "noPais": "Angola",
+            "noSigla": "AO",
+            "noPaisBi": "ANGOLA",
+            "nroDdi": "+244",
+            "noPaisTrad": "ANGOLA",
+            "dsNacionalidade": "angolana"
+        },
+        {
+            "cdPais": 166,
+            "noPais": "Anguilla",
+            "noSigla": "AI",
+            "noPaisBi": null,
+            "nroDdi": "1-264",
+            "noPaisTrad": "ANGUILA",
+            "dsNacionalidade": "anguilana"
+        },
+        {
+            "cdPais": 167,
+            "noPais": "Antarctica",
+            "noSigla": "AQ",
+            "noPaisBi": null,
+            "nroDdi": "672",
+            "noPaisTrad": "ANTÁRTIDA",
+            "dsNacionalidade": "antártica"
+        },
+        {
+            "cdPais": 168,
+            "noPais": "Antigua And Barbuda",
+            "noSigla": "AG",
+            "noPaisBi": null,
+            "nroDdi": "1-268",
+            "noPaisTrad": "ANTIGUA E BARBUDA",
+            "dsNacionalidade": "antiguano"
+        },
+        {
+            "cdPais": 169,
+            "noPais": "Argentina",
+            "noSigla": "AR",
+            "noPaisBi": "ARGENTINA",
+            "nroDdi": "+54",
+            "noPaisTrad": "ARGENTINA",
+            "dsNacionalidade": "argentina"
+        },
+        {
+            "cdPais": 170,
+            "noPais": "Armenia",
+            "noSigla": "AM",
+            "noPaisBi": null,
+            "nroDdi": "374",
+            "noPaisTrad": "ARMÉNIA",
+            "dsNacionalidade": "armênia"
+        },
+        {
+            "cdPais": 171,
+            "noPais": "Aruba",
+            "noSigla": "AW",
+            "noPaisBi": null,
+            "nroDdi": "297",
+            "noPaisTrad": "ARUBA",
+            "dsNacionalidade": "arubana"
+        },
+        {
+            "cdPais": 172,
+            "noPais": "Australia",
+            "noSigla": "AU",
+            "noPaisBi": "AUSTRÁLIA",
+            "nroDdi": "+61",
+            "noPaisTrad": "AUSTRÁLIA",
+            "dsNacionalidade": "australiana"
+        },
+        {
+            "cdPais": 173,
+            "noPais": "Austria",
+            "noSigla": "AT",
+            "noPaisBi": "ÁUSTRIA",
+            "nroDdi": "+43",
+            "noPaisTrad": "ÁUSTRIA",
+            "dsNacionalidade": "austríaca"
+        },
+        {
+            "cdPais": 174,
+            "noPais": "Azerbaijan",
+            "noSigla": "AZ",
+            "noPaisBi": null,
+            "nroDdi": "+994",
+            "noPaisTrad": "AZERBAIJÃO",
+            "dsNacionalidade": "azerbaijana"
+        },
+        {
+            "cdPais": 175,
+            "noPais": "Bahamas",
+            "noSigla": "BS",
+            "noPaisBi": null,
+            "nroDdi": "1-242",
+            "noPaisTrad": "BAHAMAS",
+            "dsNacionalidade": "bahamiana"
+        },
+        {
+            "cdPais": 176,
+            "noPais": "Bahrain",
+            "noSigla": "BH",
+            "noPaisBi": null,
+            "nroDdi": "+973",
+            "noPaisTrad": "BARÉM",
+            "dsNacionalidade": "bareinita"
+        },
+        {
+            "cdPais": 177,
+            "noPais": "Bangladesh",
+            "noSigla": "BD",
+            "noPaisBi": null,
+            "nroDdi": "880",
+            "noPaisTrad": "BANGLADESH",
+            "dsNacionalidade": "bangladesa"
+        },
+        {
+            "cdPais": 178,
+            "noPais": "Barbados",
+            "noSigla": "BB",
+            "noPaisBi": null,
+            "nroDdi": "1-246",
+            "noPaisTrad": "BARBADOS",
+            "dsNacionalidade": "barbadiana"
+        },
+        {
+            "cdPais": 179,
+            "noPais": "Belarus",
+            "noSigla": "BY",
+            "noPaisBi": null,
+            "nroDdi": "+375",
+            "noPaisTrad": "BIELORRÚSSIA",
+            "dsNacionalidade": "beilorussa"
+        },
+        {
+            "cdPais": 180,
+            "noPais": "Belgium",
+            "noSigla": "BE",
+            "noPaisBi": "BÉLGICA",
+            "nroDdi": "+32",
+            "noPaisTrad": "BÉLGICA",
+            "dsNacionalidade": "belga"
+        },
+        {
+            "cdPais": 181,
+            "noPais": "Belize",
+            "noSigla": "BZ",
+            "noPaisBi": null,
+            "nroDdi": "501",
+            "noPaisTrad": "BELIZE",
+            "dsNacionalidade": "belizense"
+        },
+        {
+            "cdPais": 182,
+            "noPais": "Benin",
+            "noSigla": "BJ",
+            "noPaisBi": "BENIN",
+            "nroDdi": "+229",
+            "noPaisTrad": "BENIN",
+            "dsNacionalidade": "beninêsa"
+        },
+        {
+            "cdPais": 183,
+            "noPais": "Bermuda",
+            "noSigla": "BM",
+            "noPaisBi": null,
+            "nroDdi": "1-441",
+            "noPaisTrad": "BERMUDAS",
+            "dsNacionalidade": "bermudenho"
+        },
+        {
+            "cdPais": 184,
+            "noPais": "Bhutan",
+            "noSigla": "BT",
+            "noPaisBi": null,
+            "nroDdi": "975",
+            "noPaisTrad": "BUTÃO",
+            "dsNacionalidade": "butanensa"
+        },
+        {
+            "cdPais": 185,
+            "noPais": "Bolivia",
+            "noSigla": "BO",
+            "noPaisBi": null,
+            "nroDdi": "591",
+            "noPaisTrad": "BOLÍVIA",
+            "dsNacionalidade": "boliviana"
+        },
+        {
+            "cdPais": 186,
+            "noPais": "Bosnia And Herzegovina",
+            "noSigla": "BA",
+            "noPaisBi": null,
+            "nroDdi": "+387",
+            "noPaisTrad": "BÓSNIA E HERZEGOVINA",
+            "dsNacionalidade": "bosniana"
+        },
+        {
+            "cdPais": 187,
+            "noPais": "Botswana",
+            "noSigla": "BW",
+            "noPaisBi": "BOTSWANA",
+            "nroDdi": "264",
+            "noPaisTrad": "BOTSUANA",
+            "dsNacionalidade": "bechuana"
+        },
+        {
+            "cdPais": 188,
+            "noPais": "Bouvet Island",
+            "noSigla": "BV",
+            "noPaisBi": null,
+            "nroDdi": null,
+            "noPaisTrad": "ILHA BOUVET",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 189,
+            "noPais": "Brazil",
+            "noSigla": "BR",
+            "noPaisBi": "BRAZIL",
+            "nroDdi": "+55",
+            "noPaisTrad": "BRASIL",
+            "dsNacionalidade": "brasileira"
+        },
+        {
+            "cdPais": 190,
+            "noPais": "British Indian Ocean Territory",
+            "noSigla": "IO",
+            "noPaisBi": null,
+            "nroDdi": "246",
+            "noPaisTrad": "TERRITÓRIO BRITÂNICO DO OCEANO ÍNDICO",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 191,
+            "noPais": "Brunei Darussalam",
+            "noSigla": "BN",
+            "noPaisBi": null,
+            "nroDdi": "673",
+            "noPaisTrad": "BRUNEI DARUSSALAM",
+            "dsNacionalidade": "bruneana"
+        },
+        {
+            "cdPais": 192,
+            "noPais": "Bulgaria",
+            "noSigla": "BG",
+            "noPaisBi": null,
+            "nroDdi": "+359",
+            "noPaisTrad": "BULGÁRIA",
+            "dsNacionalidade": "búlgara"
+        },
+        {
+            "cdPais": 193,
+            "noPais": "Burkina Faso",
+            "noSigla": "BF",
+            "noPaisBi": null,
+            "nroDdi": "+226",
+            "noPaisTrad": "BURKINA FASO",
+            "dsNacionalidade": "burquinensa"
+        },
+        {
+            "cdPais": 194,
+            "noPais": "Burundi",
+            "noSigla": "BI",
+            "noPaisBi": "BURUNDI",
+            "nroDdi": "+257",
+            "noPaisTrad": "BURUNDI",
+            "dsNacionalidade": "burundinesa"
+        },
+        {
+            "cdPais": 195,
+            "noPais": "Cambodia",
+            "noSigla": "KH",
+            "noPaisBi": null,
+            "nroDdi": "855",
+            "noPaisTrad": "CAMBOJA",
+            "dsNacionalidade": "cambojana"
+        },
+        {
+            "cdPais": 196,
+            "noPais": "Cameroon",
+            "noSigla": "CM",
+            "noPaisBi": "CAMARÕES",
+            "nroDdi": "+237",
+            "noPaisTrad": "CAMARÕES",
+            "dsNacionalidade": "camaronesa"
+        },
+        {
+            "cdPais": 197,
+            "noPais": "Canada",
+            "noSigla": "CA",
+            "noPaisBi": "CANADÁ",
+            "nroDdi": "+1",
+            "noPaisTrad": "CANADÁ",
+            "dsNacionalidade": "canadiana"
+        },
+        {
+            "cdPais": 198,
+            "noPais": "Cape Verde",
+            "noSigla": "CV",
+            "noPaisBi": "CABO-VERDE",
+            "nroDdi": "+238",
+            "noPaisTrad": "CABO VERDE",
+            "dsNacionalidade": "cabo-verdiana"
+        },
+        {
+            "cdPais": 199,
+            "noPais": "Cayman Islands",
+            "noSigla": "KY",
+            "noPaisBi": null,
+            "nroDdi": "1-345",
+            "noPaisTrad": "ILHAS CAYMAN",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 200,
+            "noPais": "Central African Republic",
+            "noSigla": "CF",
+            "noPaisBi": null,
+            "nroDdi": "+236",
+            "noPaisTrad": "REPÚBLICA CENTRO-AFRICANA",
+            "dsNacionalidade": "centro-africana"
+        },
+        {
+            "cdPais": 201,
+            "noPais": "Chad",
+            "noSigla": "TD",
+            "noPaisBi": null,
+            "nroDdi": "235",
+            "noPaisTrad": "CHADE",
+            "dsNacionalidade": "chadiana"
+        },
+        {
+            "cdPais": 202,
+            "noPais": "Chile",
+            "noSigla": "CL",
+            "noPaisBi": null,
+            "nroDdi": "56",
+            "noPaisTrad": "CHILE",
+            "dsNacionalidade": "chilena"
+        },
+        {
+            "cdPais": 203,
+            "noPais": "China",
+            "noSigla": "CN",
+            "noPaisBi": "CHINA",
+            "nroDdi": "86",
+            "noPaisTrad": "CHINA",
+            "dsNacionalidade": "chinesa"
+        },
+        {
+            "cdPais": 204,
+            "noPais": "Christmas Island",
+            "noSigla": "CX",
+            "noPaisBi": null,
+            "nroDdi": "61 CX",
+            "noPaisTrad": "ILHA DO NATAL",
+            "dsNacionalidade": "da ilha christmas"
+        },
+        {
+            "cdPais": 205,
+            "noPais": "Cocos (Keeling) Islands",
+            "noSigla": "CC",
+            "noPaisBi": null,
+            "nroDdi": "61 CC",
+            "noPaisTrad": "ILHAS COCOS (KEELING)",
+            "dsNacionalidade": "das ilhas cocos"
+        },
+        {
+            "cdPais": 206,
+            "noPais": "Colombia",
+            "noSigla": "CO",
+            "noPaisBi": null,
+            "nroDdi": "57",
+            "noPaisTrad": "COLÔMBIA",
+            "dsNacionalidade": "colombiana"
+        },
+        {
+            "cdPais": 207,
+            "noPais": "Comoros",
+            "noSigla": "KM",
+            "noPaisBi": null,
+            "nroDdi": "269",
+            "noPaisTrad": "COMORES",
+            "dsNacionalidade": "comoriana"
+        },
+        {
+            "cdPais": 208,
+            "noPais": "Congo",
+            "noSigla": "CG",
+            "noPaisBi": "CONGO/BRAZAVILLE",
+            "nroDdi": "+243",
+            "noPaisTrad": "CONGO",
+            "dsNacionalidade": "congolêsa"
+        },
+        {
+            "cdPais": 209,
+            "noPais": "Congo, The Democratic Republic Of The",
+            "noSigla": "CD",
+            "noPaisBi": "CONGO DEMOCRÁTICO",
+            "nroDdi": "243",
+            "noPaisTrad": "REPÚBLICA DEMOCRÁTICA DO CONGO",
+            "dsNacionalidade": "congolêsesa"
+        },
+        {
+            "cdPais": 210,
+            "noPais": "Cook Islands",
+            "noSigla": "CK",
+            "noPaisBi": null,
+            "nroDdi": "682",
+            "noPaisTrad": "ILHAS COOK",
+            "dsNacionalidade": "cookiana"
+        },
+        {
+            "cdPais": 211,
+            "noPais": "Costa Rica",
+            "noSigla": "CR",
+            "noPaisBi": null,
+            "nroDdi": "+506",
+            "noPaisTrad": "COSTA RICA",
+            "dsNacionalidade": "costaririquenha"
+        },
+        {
+            "cdPais": 212,
+            "noPais": "Cote Divoire",
+            "noSigla": "CI",
+            "noPaisBi": "COTE D\u0027IVOIRE",
+            "nroDdi": "+225",
+            "noPaisTrad": "COSTA DO MARFIM (CÔTE D\u0027LVOIRE)",
+            "dsNacionalidade": "costa-marfinense"
+        },
+        {
+            "cdPais": 213,
+            "noPais": "Croatia",
+            "noSigla": "HR",
+            "noPaisBi": null,
+            "nroDdi": "+385",
+            "noPaisTrad": "CROÁCIA",
+            "dsNacionalidade": "croata"
+        },
+        {
+            "cdPais": 214,
+            "noPais": "Cuba",
+            "noSigla": "CU",
+            "noPaisBi": "CUBA",
+            "nroDdi": "53",
+            "noPaisTrad": "CUBA",
+            "dsNacionalidade": "cubana"
+        },
+        {
+            "cdPais": 215,
+            "noPais": "Cyprus",
+            "noSigla": "CY",
+            "noPaisBi": null,
+            "nroDdi": "+357",
+            "noPaisTrad": "CHIPRE",
+            "dsNacionalidade": "cipriota"
+        },
+        {
+            "cdPais": 216,
+            "noPais": "Czech Republic",
+            "noSigla": "CZ",
+            "noPaisBi": null,
+            "nroDdi": "+420",
+            "noPaisTrad": "REPÚBLICA CHECA",
+            "dsNacionalidade": "checa"
+        },
+        {
+            "cdPais": 217,
+            "noPais": "Denmark",
+            "noSigla": "DK",
+            "noPaisBi": null,
+            "nroDdi": "+45",
+            "noPaisTrad": "DINAMARCA",
+            "dsNacionalidade": "dinamarquesa"
+        },
+        {
+            "cdPais": 218,
+            "noPais": "Djibouti",
+            "noSigla": "DJ",
+            "noPaisBi": null,
+            "nroDdi": "253",
+            "noPaisTrad": "JIBUTI",
+            "dsNacionalidade": "djibutiana"
+        },
+        {
+            "cdPais": 219,
+            "noPais": "Dominica",
+            "noSigla": "DM",
+            "noPaisBi": null,
+            "nroDdi": "1-767",
+            "noPaisTrad": "DOMINICA",
+            "dsNacionalidade": "dominiquêsa"
+        },
+        {
+            "cdPais": 220,
+            "noPais": "Dominican Republic",
+            "noSigla": "DO",
+            "noPaisBi": null,
+            "nroDdi": "1-809",
+            "noPaisTrad": "REPÚBLICA DOMINICANA",
+            "dsNacionalidade": "dominicana"
+        },
+        {
+            "cdPais": 221,
+            "noPais": "Ecuador",
+            "noSigla": "EC",
+            "noPaisBi": null,
+            "nroDdi": "593",
+            "noPaisTrad": "EQUADOR",
+            "dsNacionalidade": "equatoriana"
+        },
+        {
+            "cdPais": 222,
+            "noPais": "Egypt",
+            "noSigla": "EG",
+            "noPaisBi": "EGIPTO",
+            "nroDdi": "+20",
+            "noPaisTrad": "EGITO",
+            "dsNacionalidade": "egípcia"
+        },
+        {
+            "cdPais": 223,
+            "noPais": "El Salvador",
+            "noSigla": "SV",
+            "noPaisBi": null,
+            "nroDdi": "503",
+            "noPaisTrad": "EL SALVADOR",
+            "dsNacionalidade": "salvadorenha"
+        },
+        {
+            "cdPais": 224,
+            "noPais": "Equatorial Guinea",
+            "noSigla": "GQ",
+            "noPaisBi": "GUINÉ EQUATORIAL",
+            "nroDdi": "240",
+            "noPaisTrad": "GUINÉ EQUATÓRIAL",
+            "dsNacionalidade": "guinéu-equatoriana"
+        },
+        {
+            "cdPais": 225,
+            "noPais": "Eritrea",
+            "noSigla": "ER",
+            "noPaisBi": null,
+            "nroDdi": "291",
+            "noPaisTrad": "ERITREIA",
+            "dsNacionalidade": "eritreueia"
+        },
+        {
+            "cdPais": 226,
+            "noPais": "Estonia",
+            "noSigla": "EE",
+            "noPaisBi": null,
+            "nroDdi": "+372",
+            "noPaisTrad": "ESTÓNIA",
+            "dsNacionalidade": "estoniana"
+        },
+        {
+            "cdPais": 227,
+            "noPais": "Ethiopia",
+            "noSigla": "ET",
+            "noPaisBi": "ETIÓPIA",
+            "nroDdi": "251",
+            "noPaisTrad": "ETIÓPIA",
+            "dsNacionalidade": "etiopiana"
+        },
+        {
+            "cdPais": 228,
+            "noPais": "Falkland Islands (Malvinas)",
+            "noSigla": "FK",
+            "noPaisBi": null,
+            "nroDdi": "500",
+            "noPaisTrad": "ILHAS FALKLAND (MALVINAS)",
+            "dsNacionalidade": "malvinense"
+        },
+        {
+            "cdPais": 229,
+            "noPais": "Faroe Islands",
+            "noSigla": "FO",
+            "noPaisBi": null,
+            "nroDdi": "+298",
+            "noPaisTrad": "ILHAS FAROÉ",
+            "dsNacionalidade": "feroica"
+        },
+        {
+            "cdPais": 230,
+            "noPais": "Fiji",
+            "noSigla": "FJ",
+            "noPaisBi": null,
+            "nroDdi": "679",
+            "noPaisTrad": "FIJI",
+            "dsNacionalidade": "fijiana"
+        },
+        {
+            "cdPais": 231,
+            "noPais": "Finland",
+            "noSigla": "FI",
+            "noPaisBi": null,
+            "nroDdi": "+358",
+            "noPaisTrad": "FINLÂNDIA",
+            "dsNacionalidade": "finlandesa"
+        },
+        {
+            "cdPais": 232,
+            "noPais": "France",
+            "noSigla": "FR",
+            "noPaisBi": "FRANÇA",
+            "nroDdi": "+33",
+            "noPaisTrad": "FRANÇA",
+            "dsNacionalidade": "francesa"
+        },
+        {
+            "cdPais": 233,
+            "noPais": "French Guiana",
+            "noSigla": "GF",
+            "noPaisBi": null,
+            "nroDdi": "+594",
+            "noPaisTrad": "GUIANA FRANCESA",
+            "dsNacionalidade": "franco-guianensa"
+        },
+        {
+            "cdPais": 234,
+            "noPais": "French Polynesia",
+            "noSigla": "PF",
+            "noPaisBi": null,
+            "nroDdi": "+689",
+            "noPaisTrad": "POLINÉSIA FRANCESA",
+            "dsNacionalidade": "franco-polinésia"
+        },
+        {
+            "cdPais": 235,
+            "noPais": "French Southern Territories",
+            "noSigla": "TF",
+            "noPaisBi": null,
+            "nroDdi": null,
+            "noPaisTrad": "TERRAS AUSTRAIS E ANTÁRTICAS FRANCESAS",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 236,
+            "noPais": "Gabon",
+            "noSigla": "GA",
+            "noPaisBi": "GABÃO",
+            "nroDdi": "+251",
+            "noPaisTrad": "GABÃO",
+            "dsNacionalidade": "gabonêsa"
+        },
+        {
+            "cdPais": 237,
+            "noPais": "Gambia",
+            "noSigla": "GM",
+            "noPaisBi": null,
+            "nroDdi": "220",
+            "noPaisTrad": "GÂMBIA",
+            "dsNacionalidade": "gambiana"
+        },
+        {
+            "cdPais": 238,
+            "noPais": "Georgia",
+            "noSigla": "GE",
+            "noPaisBi": null,
+            "nroDdi": "+995",
+            "noPaisTrad": "GEÓRGIA",
+            "dsNacionalidade": "georgiana"
+        },
+        {
+            "cdPais": 239,
+            "noPais": "Germany",
+            "noSigla": "DE",
+            "noPaisBi": "ALEMANHA",
+            "nroDdi": "+49",
+            "noPaisTrad": "ALEMANHA",
+            "dsNacionalidade": "alemã"
+        },
+        {
+            "cdPais": 240,
+            "noPais": "Ghana",
+            "noSigla": "GH",
+            "noPaisBi": "GHANA",
+            "nroDdi": "233",
+            "noPaisTrad": "GANA",
+            "dsNacionalidade": "ganesa"
+        },
+        {
+            "cdPais": 241,
+            "noPais": "Gibraltar",
+            "noSigla": "GI",
+            "noPaisBi": null,
+            "nroDdi": "+350",
+            "noPaisTrad": "GIBRALTAR",
+            "dsNacionalidade": "gibraltina"
+        },
+        {
+            "cdPais": 242,
+            "noPais": "Greece",
+            "noSigla": "GR",
+            "noPaisBi": "GRÉCIA",
+            "nroDdi": "+30",
+            "noPaisTrad": "GRÉCIA",
+            "dsNacionalidade": "grega"
+        },
+        {
+            "cdPais": 243,
+            "noPais": "Greenland",
+            "noSigla": "GL",
+            "noPaisBi": null,
+            "nroDdi": "+299",
+            "noPaisTrad": "GRONELÂNDIA",
+            "dsNacionalidade": "greenlandês"
+        },
+        {
+            "cdPais": 244,
+            "noPais": "Grenada",
+            "noSigla": "GD",
+            "noPaisBi": null,
+            "nroDdi": "1-473",
+            "noPaisTrad": "GRANADA",
+            "dsNacionalidade": "granadina"
+        },
+        {
+            "cdPais": 245,
+            "noPais": "Guadeloupe",
+            "noSigla": "GP",
+            "noPaisBi": null,
+            "nroDdi": "+590",
+            "noPaisTrad": "GUADALUPE",
+            "dsNacionalidade": "guadalupensa"
+        },
+        {
+            "cdPais": 246,
+            "noPais": "Guam",
+            "noSigla": "GU",
+            "noPaisBi": null,
+            "nroDdi": "1-671",
+            "noPaisTrad": "GUAM",
+            "dsNacionalidade": "guamêsesa"
+        },
+        {
+            "cdPais": 247,
+            "noPais": "Guatemala",
+            "noSigla": "GT",
+            "noPaisBi": null,
+            "nroDdi": "+502",
+            "noPaisTrad": "GUATEMALA",
+            "dsNacionalidade": "guatemalteca"
+        },
+        {
+            "cdPais": 248,
+            "noPais": "Guinea",
+            "noSigla": "GN",
+            "noPaisBi": "GUINÉA",
+            "nroDdi": "224",
+            "noPaisTrad": "GUINÉ",
+            "dsNacionalidade": "guineense"
+        },
+        {
+            "cdPais": 249,
+            "noPais": "Guinea-Bissau",
+            "noSigla": "GW",
+            "noPaisBi": "GUINÉ-BISSAU",
+            "nroDdi": "245",
+            "noPaisTrad": "GUINÉ-BISSAU",
+            "dsNacionalidade": "guineense"
+        },
+        {
+            "cdPais": 250,
+            "noPais": "Guyana",
+            "noSigla": "GY",
+            "noPaisBi": null,
+            "nroDdi": "592",
+            "noPaisTrad": "GUIANA",
+            "dsNacionalidade": "guianense"
+        },
+        {
+            "cdPais": 251,
+            "noPais": "Haiti",
+            "noSigla": "HT",
+            "noPaisBi": null,
+            "nroDdi": "509",
+            "noPaisTrad": "HAITI",
+            "dsNacionalidade": "haitiana"
+        },
+        {
+            "cdPais": 252,
+            "noPais": "Heard Island And Mcdonald Islands",
+            "noSigla": "HM",
+            "noPaisBi": null,
+            "nroDdi": null,
+            "noPaisTrad": "ILHA HEARD E ILHAS MCDONALD",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 253,
+            "noPais": "Holy See (Vatican City State)",
+            "noSigla": "VA",
+            "noPaisBi": null,
+            "nroDdi": null,
+            "noPaisTrad": "SANTA SÉ (ESTADO DA CIDADE DO VATICANO)",
+            "dsNacionalidade": "vaticana"
+        },
+        {
+            "cdPais": 254,
+            "noPais": "Honduras",
+            "noSigla": "HN",
+            "noPaisBi": null,
+            "nroDdi": "504",
+            "noPaisTrad": "HONDURAS",
+            "dsNacionalidade": "hondurenha"
+        },
+        {
+            "cdPais": 255,
+            "noPais": "Hong Kong",
+            "noSigla": "HK",
+            "noPaisBi": null,
+            "nroDdi": "852",
+            "noPaisTrad": "HONG KONG",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 256,
+            "noPais": "Hungary",
+            "noSigla": "HU",
+            "noPaisBi": "HUNGRIA",
+            "nroDdi": "+36",
+            "noPaisTrad": "HUNGRIA",
+            "dsNacionalidade": "húngara"
+        },
+        {
+            "cdPais": 257,
+            "noPais": "Iceland",
+            "noSigla": "IS",
+            "noPaisBi": null,
+            "nroDdi": "+354",
+            "noPaisTrad": "ISLÂNDIA",
+            "dsNacionalidade": "islandesa"
+        },
+        {
+            "cdPais": 258,
+            "noPais": "India",
+            "noSigla": "IN",
+            "noPaisBi": "ÍNDIA",
+            "nroDdi": "91",
+            "noPaisTrad": "ÍNDIA",
+            "dsNacionalidade": "indiana"
+        },
+        {
+            "cdPais": 259,
+            "noPais": "Indonesia",
+            "noSigla": "ID",
+            "noPaisBi": "INDONÉSIA",
+            "nroDdi": "62",
+            "noPaisTrad": "INDONÉSIA",
+            "dsNacionalidade": "indonesa"
+        },
+        {
+            "cdPais": 260,
+            "noPais": "Iran, Islamic Republic Of",
+            "noSigla": "IR",
+            "noPaisBi": null,
+            "nroDdi": "+98",
+            "noPaisTrad": "IRÃO, REPUBLIC ISLÂMICA DO IRÃO",
+            "dsNacionalidade": "iraniana"
+        },
+        {
+            "cdPais": 261,
+            "noPais": "Iraq",
+            "noSigla": "IQ",
+            "noPaisBi": null,
+            "nroDdi": "+964",
+            "noPaisTrad": "IRAQUE",
+            "dsNacionalidade": "iraquiana"
+        },
+        {
+            "cdPais": 262,
+            "noPais": "Ireland",
+            "noSigla": "IE",
+            "noPaisBi": null,
+            "nroDdi": "+353",
+            "noPaisTrad": "IRLANDA",
+            "dsNacionalidade": "irlandesa"
+        },
+        {
+            "cdPais": 263,
+            "noPais": "Israel",
+            "noSigla": "IL",
+            "noPaisBi": "ISRAEL",
+            "nroDdi": "+972",
+            "noPaisTrad": "ISRAEL",
+            "dsNacionalidade": "israelita"
+        },
+        {
+            "cdPais": 264,
+            "noPais": "Italy",
+            "noSigla": "IT",
+            "noPaisBi": "ITÁLIA",
+            "nroDdi": "+39",
+            "noPaisTrad": "ITÁLIA",
+            "dsNacionalidade": "italiana"
+        },
+        {
+            "cdPais": 265,
+            "noPais": "Jamaica",
+            "noSigla": "JM",
+            "noPaisBi": null,
+            "nroDdi": "1-876",
+            "noPaisTrad": "JAMAICA",
+            "dsNacionalidade": "jamaicana"
+        },
+        {
+            "cdPais": 266,
+            "noPais": "Japan",
+            "noSigla": "JP",
+            "noPaisBi": "JAPÃO",
+            "nroDdi": "81",
+            "noPaisTrad": "JAPÃO",
+            "dsNacionalidade": "japonesa"
+        },
+        {
+            "cdPais": 267,
+            "noPais": "Jordan",
+            "noSigla": "JO",
+            "noPaisBi": null,
+            "nroDdi": "+962",
+            "noPaisTrad": "JORDÂNIA",
+            "dsNacionalidade": "jordaniana"
+        },
+        {
+            "cdPais": 268,
+            "noPais": "Kazakhstan",
+            "noSigla": "KZ",
+            "noPaisBi": null,
+            "nroDdi": "+7",
+            "noPaisTrad": "CAZAQUISTÃO",
+            "dsNacionalidade": "cazaquistanêsa"
+        },
+        {
+            "cdPais": 269,
+            "noPais": "Kenya",
+            "noSigla": "KE",
+            "noPaisBi": "QUÉNIA",
+            "nroDdi": "254",
+            "noPaisTrad": "QUÉNIA",
+            "dsNacionalidade": "queniana"
+        },
+        {
+            "cdPais": 270,
+            "noPais": "Kiribati",
+            "noSigla": "KI",
+            "noPaisBi": null,
+            "nroDdi": "686",
+            "noPaisTrad": "QUIRIBATI",
+            "dsNacionalidade": "kiribatiana"
+        },
+        {
+            "cdPais": 271,
+            "noPais": "Korea Democratic People S Republic Of",
+            "noSigla": "KP",
+            "noPaisBi": null,
+            "nroDdi": "850",
+            "noPaisTrad": "COREIA DO NORTE",
+            "dsNacionalidade": "norte-coreana"
+        },
+        {
+            "cdPais": 272,
+            "noPais": "Korea, Republic Of",
+            "noSigla": "KR",
+            "noPaisBi": "CORÉIA DO SUL",
+            "nroDdi": "82",
+            "noPaisTrad": "COREIA DO SUL",
+            "dsNacionalidade": "kiribatiana"
+        },
+        {
+            "cdPais": 273,
+            "noPais": "Kuwait",
+            "noSigla": "KW",
+            "noPaisBi": null,
+            "nroDdi": "+965",
+            "noPaisTrad": "KUWAIT",
+            "dsNacionalidade": "kuwaitiana"
+        },
+        {
+            "cdPais": 274,
+            "noPais": "Kyrgyzstan",
+            "noSigla": "KG",
+            "noPaisBi": "Quirguistão",
+            "nroDdi": "996",
+            "noPaisTrad": "QUIRGUISTÃO",
+            "dsNacionalidade": "quirguistanêsesa"
+        },
+        {
+            "cdPais": 275,
+            "noPais": "Lao People S Democratic Republic",
+            "noSigla": "LA",
+            "noPaisBi": null,
+            "nroDdi": "856",
+            "noPaisTrad": "REPÚBLICA DEMOCRÁTICA POPULAR DO LAOS",
+            "dsNacionalidade": "laosiana"
+        },
+        {
+            "cdPais": 276,
+            "noPais": "Latvia",
+            "noSigla": "LV",
+            "noPaisBi": null,
+            "nroDdi": "+371",
+            "noPaisTrad": "LETÔNIA",
+            "dsNacionalidade": "letã"
+        },
+        {
+            "cdPais": 277,
+            "noPais": "Lebanon",
+            "noSigla": "LB",
+            "noPaisBi": null,
+            "nroDdi": "+961",
+            "noPaisTrad": "LÍBANO",
+            "dsNacionalidade": "libanêsa"
+        },
+        {
+            "cdPais": 278,
+            "noPais": "Lesotho",
+            "noSigla": "LS",
+            "noPaisBi": null,
+            "nroDdi": "266",
+            "noPaisTrad": "LESOTO",
+            "dsNacionalidade": "lesota"
+        },
+        {
+            "cdPais": 279,
+            "noPais": "Liberia",
+            "noSigla": "LR",
+            "noPaisBi": "LIBÉRIA",
+            "nroDdi": "231",
+            "noPaisTrad": "LIBÉRIA",
+            "dsNacionalidade": "liberiana"
+        },
+        {
+            "cdPais": 280,
+            "noPais": "Libyan Arab Jamahiriya",
+            "noSigla": "LY",
+            "noPaisBi": "LÍBIA",
+            "nroDdi": "218",
+            "noPaisTrad": "LÍBIA",
+            "dsNacionalidade": "libia"
+        },
+        {
+            "cdPais": 281,
+            "noPais": "Liechtenstein",
+            "noSigla": "LI",
+            "noPaisBi": null,
+            "nroDdi": "+423",
+            "noPaisTrad": "LIECHTENSTIEN",
+            "dsNacionalidade": "listenstainêsa"
+        },
+        {
+            "cdPais": 282,
+            "noPais": "Lithuania",
+            "noSigla": "LT",
+            "noPaisBi": null,
+            "nroDdi": "+370",
+            "noPaisTrad": "LITUÂNIA",
+            "dsNacionalidade": "lituana"
+        },
+        {
+            "cdPais": 283,
+            "noPais": "Luxembourg",
+            "noSigla": "LU",
+            "noPaisBi": null,
+            "nroDdi": "+352",
+            "noPaisTrad": "LUXEMBURGO",
+            "dsNacionalidade": "luxemburguesa"
+        },
+        {
+            "cdPais": 284,
+            "noPais": "Macao",
+            "noSigla": "MO",
+            "noPaisBi": null,
+            "nroDdi": "853",
+            "noPaisTrad": "MACAU",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 285,
+            "noPais": "Macedonia, The Former Yugoslav Republic Of",
+            "noSigla": "MK",
+            "noPaisBi": null,
+            "nroDdi": "+389",
+            "noPaisTrad": "MACEDÔNIA DO NORTE",
+            "dsNacionalidade": "macedônia"
+        },
+        {
+            "cdPais": 286,
+            "noPais": "Madagascar",
+            "noSigla": "MG",
+            "noPaisBi": null,
+            "nroDdi": "+261",
+            "noPaisTrad": "MADAGÁSCAR",
+            "dsNacionalidade": "madagascarense"
+        },
+        {
+            "cdPais": 287,
+            "noPais": "Malawi",
+            "noSigla": "MW",
+            "noPaisBi": null,
+            "nroDdi": "265",
+            "noPaisTrad": "MALAWI",
+            "dsNacionalidade": "malauiana"
+        },
+        {
+            "cdPais": 288,
+            "noPais": "Malaysia",
+            "noSigla": "MY",
+            "noPaisBi": "MALÁSIA",
+            "nroDdi": "60",
+            "noPaisTrad": "MALÁSIA",
+            "dsNacionalidade": "malaia"
+        },
+        {
+            "cdPais": 289,
+            "noPais": "Maldives",
+            "noSigla": "MV",
+            "noPaisBi": null,
+            "nroDdi": "960",
+            "noPaisTrad": "MALDIVAS",
+            "dsNacionalidade": "maldiva"
+        },
+        {
+            "cdPais": 290,
+            "noPais": "Mali",
+            "noSigla": "ML",
+            "noPaisBi": null,
+            "nroDdi": "+223",
+            "noPaisTrad": "MALI",
+            "dsNacionalidade": "malinesa"
+        },
+        {
+            "cdPais": 291,
+            "noPais": "Malta",
+            "noSigla": "MT",
+            "noPaisBi": null,
+            "nroDdi": "+356",
+            "noPaisTrad": "MALTA",
+            "dsNacionalidade": "maltesa"
+        },
+        {
+            "cdPais": 292,
+            "noPais": "Marshall Islands",
+            "noSigla": "MH",
+            "noPaisBi": null,
+            "nroDdi": "692",
+            "noPaisTrad": "ILHAS MARSHALL",
+            "dsNacionalidade": "marshalêsa"
+        },
+        {
+            "cdPais": 293,
+            "noPais": "Martinique",
+            "noSigla": "MQ",
+            "noPaisBi": null,
+            "nroDdi": "+596",
+            "noPaisTrad": "MARTINICA",
+            "dsNacionalidade": "martinicana"
+        },
+        {
+            "cdPais": 294,
+            "noPais": "Mauritania",
+            "noSigla": "MR",
+            "noPaisBi": null,
+            "nroDdi": "+222",
+            "noPaisTrad": "MAURÍCIA",
+            "dsNacionalidade": "mauritana"
+        },
+        {
+            "cdPais": 295,
+            "noPais": "Mauritius",
+            "noSigla": "MU",
+            "noPaisBi": null,
+            "nroDdi": "+230",
+            "noPaisTrad": "MAURÍCIO",
+            "dsNacionalidade": "mauriciana"
+        },
+        {
+            "cdPais": 296,
+            "noPais": "Mayotte",
+            "noSigla": "YT",
+            "noPaisBi": null,
+            "nroDdi": "262",
+            "noPaisTrad": "MAYOTTE",
+            "dsNacionalidade": "maiotensa"
+        },
+        {
+            "cdPais": 297,
+            "noPais": "Mexico",
+            "noSigla": "MX",
+            "noPaisBi": "MÉXICO",
+            "nroDdi": "+52",
+            "noPaisTrad": "MÉXICO",
+            "dsNacionalidade": "mexicana"
+        },
+        {
+            "cdPais": 298,
+            "noPais": "Micronesia, Federated States Of",
+            "noSigla": "FM",
+            "noPaisBi": null,
+            "nroDdi": "691",
+            "noPaisTrad": "ESTADOS FEDERADOS DA MICRONÉSIA",
+            "dsNacionalidade": "micronésia"
+        },
+        {
+            "cdPais": 299,
+            "noPais": "Moldova, Republic Of",
+            "noSigla": "MD",
+            "noPaisBi": null,
+            "nroDdi": "+373",
+            "noPaisTrad": "MOLDOVA",
+            "dsNacionalidade": "moldávia"
+        },
+        {
+            "cdPais": 300,
+            "noPais": "Monaco",
+            "noSigla": "MC",
+            "noPaisBi": null,
+            "nroDdi": "+377",
+            "noPaisTrad": "MÔNACO",
+            "dsNacionalidade": "monegasca"
+        },
+        {
+            "cdPais": 301,
+            "noPais": "Mongolia",
+            "noSigla": "MN",
+            "noPaisBi": null,
+            "nroDdi": "976",
+            "noPaisTrad": "MONGÓLIA",
+            "dsNacionalidade": "mongólica"
+        },
+        {
+            "cdPais": 302,
+            "noPais": "Montserrat",
+            "noSigla": "MS",
+            "noPaisBi": null,
+            "nroDdi": "1-664",
+            "noPaisTrad": "MONTSERRANT",
+            "dsNacionalidade": "monserratensa"
+        },
+        {
+            "cdPais": 303,
+            "noPais": "Morocco",
+            "noSigla": "MA",
+            "noPaisBi": "MARROCOS",
+            "nroDdi": "212",
+            "noPaisTrad": "MAROCOS",
+            "dsNacionalidade": "marroquina"
+        },
+        {
+            "cdPais": 304,
+            "noPais": "Mozambique",
+            "noSigla": "MZ",
+            "noPaisBi": "MOÇAMBIQUE",
+            "nroDdi": "+258",
+            "noPaisTrad": "MOÇAMBIQUE",
+            "dsNacionalidade": "moçambicana"
+        },
+        {
+            "cdPais": 305,
+            "noPais": "Myanmar",
+            "noSigla": "MM",
+            "noPaisBi": null,
+            "nroDdi": "95",
+            "noPaisTrad": "MYANMAR",
+            "dsNacionalidade": "birmanensa"
+        },
+        {
+            "cdPais": 306,
+            "noPais": "Namibia",
+            "noSigla": "NA",
+            "noPaisBi": "NAMÍBIA",
+            "nroDdi": "264 ",
+            "noPaisTrad": "NAMÍBIA",
+            "dsNacionalidade": "namibiana"
+        },
+        {
+            "cdPais": 307,
+            "noPais": "Nauru",
+            "noSigla": "NR",
+            "noPaisBi": null,
+            "nroDdi": "674",
+            "noPaisTrad": "NAURU",
+            "dsNacionalidade": "nauruana"
+        },
+        {
+            "cdPais": 308,
+            "noPais": "Nepal",
+            "noSigla": "NP",
+            "noPaisBi": null,
+            "nroDdi": "977",
+            "noPaisTrad": "NEPAL",
+            "dsNacionalidade": "nepalesa"
+        },
+        {
+            "cdPais": 309,
+            "noPais": "Netherlands",
+            "noSigla": "NL",
+            "noPaisBi": "HOLANDA",
+            "nroDdi": "+31",
+            "noPaisTrad": "HOLANDA",
+            "dsNacionalidade": "holandesa"
+        },
+        {
+            "cdPais": 310,
+            "noPais": "Netherlands Antilles",
+            "noSigla": "AN",
+            "noPaisBi": null,
+            "nroDdi": "31",
+            "noPaisTrad": "ANTILHAS HOLANDESAS",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 311,
+            "noPais": "New Caledonia",
+            "noSigla": "NC",
+            "noPaisBi": null,
+            "nroDdi": "+687",
+            "noPaisTrad": "NOVA CALEDÓNIA",
+            "dsNacionalidade": "neocaledônia"
+        },
+        {
+            "cdPais": 312,
+            "noPais": "New Zealand",
+            "noSigla": "NZ",
+            "noPaisBi": null,
+            "nroDdi": "64",
+            "noPaisTrad": "NOVA ZELÂNDIA",
+            "dsNacionalidade": "neozelandesa"
+        },
+        {
+            "cdPais": 313,
+            "noPais": "Nicaragua",
+            "noSigla": "NI",
+            "noPaisBi": null,
+            "nroDdi": "505",
+            "noPaisTrad": "NICARÁGUA",
+            "dsNacionalidade": "nica"
+        },
+        {
+            "cdPais": 314,
+            "noPais": "Niger",
+            "noSigla": "NE",
+            "noPaisBi": null,
+            "nroDdi": "234",
+            "noPaisTrad": "NÍGER",
+            "dsNacionalidade": "nigerina"
+        },
+        {
+            "cdPais": 315,
+            "noPais": "Nigeria",
+            "noSigla": "NG",
+            "noPaisBi": "NIGÉRIA",
+            "nroDdi": "234 ",
+            "noPaisTrad": "NIGÉRIA",
+            "dsNacionalidade": "nigeriana"
+        },
+        {
+            "cdPais": 316,
+            "noPais": "Niue",
+            "noSigla": "NU",
+            "noPaisBi": null,
+            "nroDdi": "683",
+            "noPaisTrad": "NIUE",
+            "dsNacionalidade": "niueana"
+        },
+        {
+            "cdPais": 317,
+            "noPais": "Norfolk Island",
+            "noSigla": "NF",
+            "noPaisBi": null,
+            "nroDdi": null,
+            "noPaisTrad": "ILHA NORFOLK",
+            "dsNacionalidade": "norfolquina"
+        },
+        {
+            "cdPais": 318,
+            "noPais": "Northern Mariana Islands",
+            "noSigla": "MP",
+            "noPaisBi": null,
+            "nroDdi": "1-670",
+            "noPaisTrad": "ILHAS MARIANAS DO NORTE",
+            "dsNacionalidade": "norte-marianensa"
+        },
+        {
+            "cdPais": 319,
+            "noPais": "Norway",
+            "noSigla": "NO",
+            "noPaisBi": "NORUEGA",
+            "nroDdi": "+47",
+            "noPaisTrad": "NORUEGA",
+            "dsNacionalidade": "norueguesa"
+        },
+        {
+            "cdPais": 320,
+            "noPais": "Oman",
+            "noSigla": "OM",
+            "noPaisBi": null,
+            "nroDdi": "968",
+            "noPaisTrad": "OMÃ",
+            "dsNacionalidade": "omani"
+        },
+        {
+            "cdPais": 321,
+            "noPais": "Pakistan",
+            "noSigla": "PK",
+            "noPaisBi": null,
+            "nroDdi": "+92",
+            "noPaisTrad": "PAQUISTÃO",
+            "dsNacionalidade": "paquistanesa"
+        },
+        {
+            "cdPais": 322,
+            "noPais": "Palau",
+            "noSigla": "PW",
+            "noPaisBi": null,
+            "nroDdi": "680",
+            "noPaisTrad": "PALAU",
+            "dsNacionalidade": "palauana"
+        },
+        {
+            "cdPais": 323,
+            "noPais": "Palestinian Territory, Occupied",
+            "noSigla": "PS",
+            "noPaisBi": null,
+            "nroDdi": "+970",
+            "noPaisTrad": "TERRITÓRIOS PALESTINOS",
+            "dsNacionalidade": "palestina"
+        },
+        {
+            "cdPais": 324,
+            "noPais": "Panama",
+            "noSigla": "PA",
+            "noPaisBi": null,
+            "nroDdi": "507",
+            "noPaisTrad": "PANAMA",
+            "dsNacionalidade": "panamenha"
+        },
+        {
+            "cdPais": 325,
+            "noPais": "Papua New Guinea",
+            "noSigla": "PG",
+            "noPaisBi": null,
+            "nroDdi": "675",
+            "noPaisTrad": "PAPUA NOVA GUINÉ",
+            "dsNacionalidade": "papuásia"
+        },
+        {
+            "cdPais": 326,
+            "noPais": "Paraguay",
+            "noSigla": "PY",
+            "noPaisBi": null,
+            "nroDdi": "595",
+            "noPaisTrad": "PARAGUAI",
+            "dsNacionalidade": "paraguasia"
+        },
+        {
+            "cdPais": 327,
+            "noPais": "Peru",
+            "noSigla": "PE",
+            "noPaisBi": null,
+            "nroDdi": "51",
+            "noPaisTrad": "PERU",
+            "dsNacionalidade": "peruana"
+        },
+        {
+            "cdPais": 328,
+            "noPais": "Philippines",
+            "noSigla": "PH",
+            "noPaisBi": "FILIPINAS",
+            "nroDdi": "63",
+            "noPaisTrad": "FILIPINAS",
+            "dsNacionalidade": "filipina"
+        },
+        {
+            "cdPais": 329,
+            "noPais": "Pitcairn",
+            "noSigla": "PN",
+            "noPaisBi": null,
+            "nroDdi": "64 ",
+            "noPaisTrad": "ILHAS PITCAIRN",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 330,
+            "noPais": "Poland",
+            "noSigla": "PL",
+            "noPaisBi": "POLÓNIA",
+            "nroDdi": "+48",
+            "noPaisTrad": "POLÓNIA",
+            "dsNacionalidade": "polaca"
+        },
+        {
+            "cdPais": 331,
+            "noPais": "Portugal",
+            "noSigla": "PT",
+            "noPaisBi": "PORTUGAL",
+            "nroDdi": "+351",
+            "noPaisTrad": "PORTUGAL",
+            "dsNacionalidade": "portuguesa"
+        },
+        {
+            "cdPais": 332,
+            "noPais": "Puerto Rico",
+            "noSigla": "PR",
+            "noPaisBi": null,
+            "nroDdi": "1-787",
+            "noPaisTrad": "PORTO RICO",
+            "dsNacionalidade": "porto-riquenha"
+        },
+        {
+            "cdPais": 333,
+            "noPais": "Qatar",
+            "noSigla": "QA",
+            "noPaisBi": null,
+            "nroDdi": "+974",
+            "noPaisTrad": "CATAR",
+            "dsNacionalidade": "catariana"
+        },
+        {
+            "cdPais": 334,
+            "noPais": "Reunion",
+            "noSigla": "RE",
+            "noPaisBi": null,
+            "nroDdi": "+262",
+            "noPaisTrad": "REUNIÃO",
+            "dsNacionalidade": "reunionensa"
+        },
+        {
+            "cdPais": 335,
+            "noPais": "Romania",
+            "noSigla": "RO",
+            "noPaisBi": null,
+            "nroDdi": "+40",
+            "noPaisTrad": "ROMÉNIA",
+            "dsNacionalidade": "romena"
+        },
+        {
+            "cdPais": 336,
+            "noPais": "Russian Federation",
+            "noSigla": "RU",
+            "noPaisBi": "RÚSSIA",
+            "nroDdi": "7",
+            "noPaisTrad": "FEDERAÇÃO RUSSA",
+            "dsNacionalidade": "russa"
+        },
+        {
+            "cdPais": 337,
+            "noPais": "Rwanda",
+            "noSigla": "RW",
+            "noPaisBi": "RUANDA",
+            "nroDdi": "250",
+            "noPaisTrad": "RWANDA",
+            "dsNacionalidade": "ruandesa"
+        },
+        {
+            "cdPais": 338,
+            "noPais": "Saint Helena",
+            "noSigla": "SH",
+            "noPaisBi": "Santa Helena",
+            "nroDdi": "290",
+            "noPaisTrad": "SANTA HELENA",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 339,
+            "noPais": "Saint Kitts And Nevis",
+            "noSigla": "KN",
+            "noPaisBi": null,
+            "nroDdi": "1-869",
+            "noPaisTrad": "SÃO CRISTÓVÃO E NEVES",
+            "dsNacionalidade": "são-cristovensa"
+        },
+        {
+            "cdPais": 340,
+            "noPais": "Saint Lucia",
+            "noSigla": "LC",
+            "noPaisBi": null,
+            "nroDdi": "1-758",
+            "noPaisTrad": "SANTA LÚCIA",
+            "dsNacionalidade": "santa-lucense"
+        },
+        {
+            "cdPais": 341,
+            "noPais": "Saint Pierre And Miquelon",
+            "noSigla": "PM",
+            "noPaisBi": null,
+            "nroDdi": "+508",
+            "noPaisTrad": "SAINT-PIERRE E MIQUELON",
+            "dsNacionalidade": "miquelonêsa"
+        },
+        {
+            "cdPais": 342,
+            "noPais": "Saint Vincent And The Grenadines",
+            "noSigla": "VC",
+            "noPaisBi": null,
+            "nroDdi": "1-784",
+            "noPaisTrad": "SÃO VCENTE E GRANADINAS",
+            "dsNacionalidade": "são-vicentina"
+        },
+        {
+            "cdPais": 343,
+            "noPais": "Samoa",
+            "noSigla": "WS",
+            "noPaisBi": null,
+            "nroDdi": "685",
+            "noPaisTrad": "SAMOA",
+            "dsNacionalidade": "samoana"
+        },
+        {
+            "cdPais": 344,
+            "noPais": "San Marino",
+            "noSigla": "SM",
+            "noPaisBi": null,
+            "nroDdi": "+378",
+            "noPaisTrad": "SAN MARINO",
+            "dsNacionalidade": "samarinesa"
+        },
+        {
+            "cdPais": 345,
+            "noPais": "Sao Tome And Principe",
+            "noSigla": "ST",
+            "noPaisBi": "SÃO TOMÉ",
+            "nroDdi": "+239",
+            "noPaisTrad": "SÃO TOMÉ E PRÍNCIPE",
+            "dsNacionalidade": "santomense"
+        },
+        {
+            "cdPais": 346,
+            "noPais": "Saudi Arabia",
+            "noSigla": "SA",
+            "noPaisBi": null,
+            "nroDdi": "+966",
+            "noPaisTrad": "ARÁBIA SAUDITA",
+            "dsNacionalidade": "saudita"
+        },
+        {
+            "cdPais": 347,
+            "noPais": "Senegal",
+            "noSigla": "SN",
+            "noPaisBi": null,
+            "nroDdi": "+221",
+            "noPaisTrad": "SENEGAL",
+            "dsNacionalidade": "senegalesa"
+        },
+        {
+            "cdPais": 348,
+            "noPais": "Serbia And Montenegro",
+            "noSigla": "CS",
+            "noPaisBi": "SERVIA E MONTENEGRO",
+            "nroDdi": null,
+            "noPaisTrad": "SÉRVIA E MONTEGRO",
+            "dsNacionalidade": "montenegrina"
+        },
+        {
+            "cdPais": 349,
+            "noPais": "Seychelles",
+            "noSigla": "SC",
+            "noPaisBi": null,
+            "nroDdi": "+248",
+            "noPaisTrad": "SEICHELES",
+            "dsNacionalidade": "seichelense"
+        },
+        {
+            "cdPais": 350,
+            "noPais": "Sierra Leone",
+            "noSigla": "SL",
+            "noPaisBi": null,
+            "nroDdi": "232",
+            "noPaisTrad": "SERRA LEOA",
+            "dsNacionalidade": "leonesa"
+        },
+        {
+            "cdPais": 351,
+            "noPais": "Singapore",
+            "noSigla": "SG",
+            "noPaisBi": null,
+            "nroDdi": "65",
+            "noPaisTrad": "CINGAPURA",
+            "dsNacionalidade": "singapurense"
+        },
+        {
+            "cdPais": 352,
+            "noPais": "Slovakia",
+            "noSigla": "SK",
+            "noPaisBi": "ESLOVÁQUIA",
+            "nroDdi": "+421",
+            "noPaisTrad": "ESLOVÁQUIA",
+            "dsNacionalidade": "eslovaca"
+        },
+        {
+            "cdPais": 353,
+            "noPais": "Slovenia",
+            "noSigla": "SI",
+            "noPaisBi": null,
+            "nroDdi": "+386",
+            "noPaisTrad": "ESLOVÉNIA",
+            "dsNacionalidade": "eslovena"
+        },
+        {
+            "cdPais": 354,
+            "noPais": "Solomon Islands",
+            "noSigla": "SB",
+            "noPaisBi": null,
+            "nroDdi": "677",
+            "noPaisTrad": "ILHAS SALOMÃO",
+            "dsNacionalidade": "salomónica"
+        },
+        {
+            "cdPais": 355,
+            "noPais": "Somalia",
+            "noSigla": "SO",
+            "noPaisBi": null,
+            "nroDdi": "252",
+            "noPaisTrad": "SOMÁLIA",
+            "dsNacionalidade": "somalía"
+        },
+        {
+            "cdPais": 356,
+            "noPais": "South Africa",
+            "noSigla": "ZA",
+            "noPaisBi": "AFRICA DO SUL",
+            "nroDdi": "27",
+            "noPaisTrad": "ÁFRICA DO SUL",
+            "dsNacionalidade": "sul-africana"
+        },
+        {
+            "cdPais": 357,
+            "noPais": "South Georgia And The South Sandwich Islands",
+            "noSigla": "GS",
+            "noPaisBi": null,
+            "nroDdi": null,
+            "noPaisTrad": "ILHAS GEÓRGIA DO SUL E SANDWICH DO SUL",
+            "dsNacionalidade": "sul-georgiana"
+        },
+        {
+            "cdPais": 358,
+            "noPais": "Spain",
+            "noSigla": "ES",
+            "noPaisBi": "ESPANHA",
+            "nroDdi": "+34",
+            "noPaisTrad": "ESPANHA",
+            "dsNacionalidade": "espanhola"
+        },
+        {
+            "cdPais": 359,
+            "noPais": "Sri Lanka",
+            "noSigla": "LK",
+            "noPaisBi": null,
+            "nroDdi": "94",
+            "noPaisTrad": "SRI LANKA",
+            "dsNacionalidade": "espanhola"
+        },
+        {
+            "cdPais": 360,
+            "noPais": "Sudan",
+            "noSigla": "SD",
+            "noPaisBi": "SUDÃO DO SUL",
+            "nroDdi": "249",
+            "noPaisTrad": "SUDÃO",
+            "dsNacionalidade": "sudanesa"
+        },
+        {
+            "cdPais": 361,
+            "noPais": "Suriname",
+            "noSigla": "SR",
+            "noPaisBi": null,
+            "nroDdi": "597",
+            "noPaisTrad": "SURINAME",
+            "dsNacionalidade": "surinamense"
+        },
+        {
+            "cdPais": 362,
+            "noPais": "Svalbard And Jan Mayen",
+            "noSigla": "SJ",
+            "noPaisBi": null,
+            "nroDdi": "47",
+            "noPaisTrad": "SVALBARD E JAN MAYEN",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 363,
+            "noPais": "Swaziland",
+            "noSigla": "SZ",
+            "noPaisBi": null,
+            "nroDdi": "268",
+            "noPaisTrad": "SUAZILÂNDIA",
+            "dsNacionalidade": "essuatiniana"
+        },
+        {
+            "cdPais": 364,
+            "noPais": "Sweden",
+            "noSigla": "SE",
+            "noPaisBi": "SUÉCIA",
+            "nroDdi": "+46",
+            "noPaisTrad": "SUÉCIA",
+            "dsNacionalidade": "suecoa"
+        },
+        {
+            "cdPais": 365,
+            "noPais": "Switzerland",
+            "noSigla": "CH",
+            "noPaisBi": "SUÍÇA",
+            "nroDdi": "+41",
+            "noPaisTrad": "SUÍÇA",
+            "dsNacionalidade": "suíça"
+        },
+        {
+            "cdPais": 366,
+            "noPais": "Syrian Arab Republic",
+            "noSigla": "SY",
+            "noPaisBi": null,
+            "nroDdi": "963",
+            "noPaisTrad": "REPÚBLICA ÁRABE DA SÍRIA",
+            "dsNacionalidade": "siríaca"
+        },
+        {
+            "cdPais": 367,
+            "noPais": "Taiwan, Province Of China",
+            "noSigla": "TW",
+            "noPaisBi": null,
+            "nroDdi": "886",
+            "noPaisTrad": "TAIWAN, PROVÍNCIA DA CHINA",
+            "dsNacionalidade": "taiuanês"
+        },
+        {
+            "cdPais": 368,
+            "noPais": "Tajikistan",
+            "noSigla": "TJ",
+            "noPaisBi": null,
+            "nroDdi": "992",
+            "noPaisTrad": "TAJIQUISTÃO",
+            "dsNacionalidade": "tajiquistanêsa"
+        },
+        {
+            "cdPais": 369,
+            "noPais": "Tanzania, United Republic Of",
+            "noSigla": "TZ",
+            "noPaisBi": "TANZÂNIA",
+            "nroDdi": "255",
+            "noPaisTrad": "TANZÂNIA, REPÚBLICA UNIDA ",
+            "dsNacionalidade": "tanzaniana"
+        },
+        {
+            "cdPais": 370,
+            "noPais": "Thailand",
+            "noSigla": "TH",
+            "noPaisBi": null,
+            "nroDdi": "66",
+            "noPaisTrad": "TAILÂNDIA",
+            "dsNacionalidade": "tailandêsa"
+        },
+        {
+            "cdPais": 371,
+            "noPais": "Timor-Leste",
+            "noSigla": "TL",
+            "noPaisBi": "TIMOR LESTE",
+            "nroDdi": "+670",
+            "noPaisTrad": "TIMOR-LESTE",
+            "dsNacionalidade": "timorense"
+        },
+        {
+            "cdPais": 372,
+            "noPais": "Togo",
+            "noSigla": "TG",
+            "noPaisBi": null,
+            "nroDdi": "228",
+            "noPaisTrad": "TOGO",
+            "dsNacionalidade": "togolêsa"
+        },
+        {
+            "cdPais": 373,
+            "noPais": "Tokelau",
+            "noSigla": "TK",
+            "noPaisBi": null,
+            "nroDdi": "690",
+            "noPaisTrad": "TOKELAU",
+            "dsNacionalidade": "toquelauana"
+        },
+        {
+            "cdPais": 374,
+            "noPais": "Tonga",
+            "noSigla": "TO",
+            "noPaisBi": null,
+            "nroDdi": "676",
+            "noPaisTrad": "TONGA",
+            "dsNacionalidade": "tonga"
+        },
+        {
+            "cdPais": 375,
+            "noPais": "Trinidad And Tobago",
+            "noSigla": "TT",
+            "noPaisBi": null,
+            "nroDdi": "1-868",
+            "noPaisTrad": "TRINIDAD E TOBAGO",
+            "dsNacionalidade": "tobagense"
+        },
+        {
+            "cdPais": 376,
+            "noPais": "Tunisia",
+            "noSigla": "TN",
+            "noPaisBi": null,
+            "nroDdi": "+216",
+            "noPaisTrad": "TUNÍSIA",
+            "dsNacionalidade": "tunisina"
+        },
+        {
+            "cdPais": 377,
+            "noPais": "Turkey",
+            "noSigla": "TR",
+            "noPaisBi": "TURQUIA",
+            "nroDdi": "+90",
+            "noPaisTrad": "TURQUIA",
+            "dsNacionalidade": "turca"
+        },
+        {
+            "cdPais": 378,
+            "noPais": "Turkmenistan",
+            "noSigla": "TM",
+            "noPaisBi": null,
+            "nroDdi": "993",
+            "noPaisTrad": "TURCOMENISTÃO",
+            "dsNacionalidade": "turquemenistanês"
+        },
+        {
+            "cdPais": 379,
+            "noPais": "Turks And Caicos Islands",
+            "noSigla": "TC",
+            "noPaisBi": null,
+            "nroDdi": "1-649",
+            "noPaisTrad": "ILHAS TURCAS E CAICOS",
+            "dsNacionalidade": "turquense"
+        },
+        {
+            "cdPais": 380,
+            "noPais": "Tuvalu",
+            "noSigla": "TV",
+            "noPaisBi": null,
+            "nroDdi": "688",
+            "noPaisTrad": "TUVALU",
+            "dsNacionalidade": "tuvaluana"
+        },
+        {
+            "cdPais": 381,
+            "noPais": "Uganda",
+            "noSigla": "UG",
+            "noPaisBi": "UGANDA",
+            "nroDdi": "256",
+            "noPaisTrad": "UGANDA",
+            "dsNacionalidade": "ugandêsa"
+        },
+        {
+            "cdPais": 382,
+            "noPais": "Ukraine",
+            "noSigla": "UA",
+            "noPaisBi": null,
+            "nroDdi": "+380",
+            "noPaisTrad": "UCRÂNIA",
+            "dsNacionalidade": "ucraniana"
+        },
+        {
+            "cdPais": 383,
+            "noPais": "United Arab Emirates",
+            "noSigla": "AE",
+            "noPaisBi": "EMIRATOS ÁRABES UNIDOS",
+            "nroDdi": "+971",
+            "noPaisTrad": "EMIRADOS ÁRABES UNIDOS",
+            "dsNacionalidade": "emiradense"
+        },
+        {
+            "cdPais": 384,
+            "noPais": "United Kingdom",
+            "noSigla": "GB",
+            "noPaisBi": "GRÃ-BRETANHA",
+            "nroDdi": "+44",
+            "noPaisTrad": "REINO UNIDO",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 385,
+            "noPais": "United States",
+            "noSigla": "US",
+            "noPaisBi": "EUA",
+            "nroDdi": "1",
+            "noPaisTrad": "ESTADOS UNIDOS DA AMERICA",
+            "dsNacionalidade": "norte-americana"
+        },
+        {
+            "cdPais": 386,
+            "noPais": "United States Minor Outlying Islands",
+            "noSigla": "UM",
+            "noPaisBi": null,
+            "nroDdi": null,
+            "noPaisTrad": "ILHAS MENORES DISTANTES DOS ESTADOS UNIDOS",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 387,
+            "noPais": "Uruguay",
+            "noSigla": "UY",
+            "noPaisBi": null,
+            "nroDdi": "598",
+            "noPaisTrad": "URUGUAI",
+            "dsNacionalidade": "uruguaia"
+        },
+        {
+            "cdPais": 388,
+            "noPais": "Uzbekistan",
+            "noSigla": "UZ",
+            "noPaisBi": null,
+            "nroDdi": "998",
+            "noPaisTrad": "UZBEQUISTÃO",
+            "dsNacionalidade": "usbequistanêsa"
+        },
+        {
+            "cdPais": 389,
+            "noPais": "Vanuatu",
+            "noSigla": "VU",
+            "noPaisBi": null,
+            "nroDdi": "678",
+            "noPaisTrad": "VANUATU",
+            "dsNacionalidade": "vanuatuense"
+        },
+        {
+            "cdPais": 390,
+            "noPais": "Venezuela",
+            "noSigla": "VE",
+            "noPaisBi": "VENEZUELA",
+            "nroDdi": "58",
+            "noPaisTrad": "VENEZUELA",
+            "dsNacionalidade": "venezuelana"
+        },
+        {
+            "cdPais": 391,
+            "noPais": "Viet Nam",
+            "noSigla": "VN",
+            "noPaisBi": "VIETNAME",
+            "nroDdi": "84",
+            "noPaisTrad": "VIETNAME",
+            "dsNacionalidade": "vietnamita"
+        },
+        {
+            "cdPais": 392,
+            "noPais": "Virgin Islands British",
+            "noSigla": "VG",
+            "noPaisBi": null,
+            "nroDdi": "1-284",
+            "noPaisTrad": "ILHAS VIRGENS BRITÂNICAS",
+            "dsNacionalidade": "virginense"
+        },
+        {
+            "cdPais": 393,
+            "noPais": "Virgin Islands, U.S.",
+            "noSigla": "VI",
+            "noPaisBi": null,
+            "nroDdi": "1-340",
+            "noPaisTrad": "ILLHAS VIRGENS AMERICANAS",
+            "dsNacionalidade": "virginense"
+        },
+        {
+            "cdPais": 394,
+            "noPais": "Wallis And Futuna",
+            "noSigla": "WF",
+            "noPaisBi": null,
+            "nroDdi": "+681",
+            "noPaisTrad": "WALLIS E FUTUNA",
+            "dsNacionalidade": "wallisense"
+        },
+        {
+            "cdPais": 395,
+            "noPais": "Western Sahara",
+            "noSigla": "EH",
+            "noPaisBi": null,
+            "nroDdi": "212 ",
+            "noPaisTrad": "SAARA OCIDENTAL",
+            "dsNacionalidade": "sariana"
+        },
+        {
+            "cdPais": 396,
+            "noPais": "Yemen",
+            "noSigla": "YE",
+            "noPaisBi": null,
+            "nroDdi": "967",
+            "noPaisTrad": "LÉMEN",
+            "dsNacionalidade": "iemenita"
+        },
+        {
+            "cdPais": 397,
+            "noPais": "Zambia",
+            "noSigla": "ZM",
+            "noPaisBi": "ZÂMBIA",
+            "nroDdi": "260",
+            "noPaisTrad": "ZÂMBIA",
+            "dsNacionalidade": "zambiana"
+        },
+        {
+            "cdPais": 398,
+            "noPais": "Zimbabwe",
+            "noSigla": "ZW",
+            "noPaisBi": "ZIMBABWE",
+            "nroDdi": "263",
+            "noPaisTrad": "ZIMBÁBUE",
+            "dsNacionalidade": "zimbabueana"
+        },
+        {
+            "cdPais": 404,
+            "noPais": "Yugoslav",
+            "noSigla": "YG",
+            "noPaisBi": null,
+            "nroDdi": null,
+            "noPaisTrad": "LUGOSLÁVIA",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 409,
+            "noPais": "Espanha",
+            "noSigla": "EP",
+            "noPaisBi": null,
+            "nroDdi": "34",
+            "noPaisTrad": "ESPANHA",
+            "dsNacionalidade": "espanhola"
+        },
+        {
+            "cdPais": 411,
+            "noPais": "Belgica",
+            "noSigla": "BC",
+            "noPaisBi": null,
+            "nroDdi": "32",
+            "noPaisTrad": "BÉLGICA",
+            "dsNacionalidade": "belga"
+        },
+        {
+            "cdPais": 415,
+            "noPais": "Inglaterra",
+            "noSigla": "IG",
+            "noPaisBi": null,
+            "nroDdi": "44",
+            "noPaisTrad": "INGLATERRA",
+            "dsNacionalidade": "inglesa"
+        },
+        {
+            "cdPais": 424,
+            "noPais": "Conakry Guinèe",
+            "noSigla": "GC",
+            "noPaisBi": null,
+            "nroDdi": null,
+            "noPaisTrad": "GUINÈE CONAKRY",
+            "dsNacionalidade": "guineana"
+        },
+        {
+            "cdPais": 425,
+            "noPais": "Katanga",
+            "noSigla": "KA",
+            "noPaisBi": "KATANGA",
+            "nroDdi": null,
+            "noPaisTrad": "CATANGA",
+            "dsNacionalidade": "catanga"
+        },
+        {
+            "cdPais": 426,
+            "noPais": "Ponta-Negra",
+            "noSigla": "PO",
+            "noPaisBi": "PONTA-NEGRA",
+            "nroDdi": null,
+            "noPaisTrad": "PONTA-NEGRA",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 427,
+            "noPais": "Santa Fé",
+            "noSigla": "SF",
+            "noPaisBi": "SANTA FÉ",
+            "nroDdi": null,
+            "noPaisTrad": "SANTA FÉ ",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 428,
+            "noPais": "Unesco",
+            "noSigla": "UN",
+            "noPaisBi": "UNESCO",
+            "nroDdi": null,
+            "noPaisTrad": "UNESCO",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 429,
+            "noPais": "Zaire",
+            "noSigla": "ZR",
+            "noPaisBi": "ZAIRE",
+            "nroDdi": null,
+            "noPaisTrad": "ZAIRE",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 433,
+            "noPais": "Organização Das Nações Unidas",
+            "noSigla": "ON",
+            "noPaisBi": null,
+            "nroDdi": null,
+            "noPaisTrad": "ORGANIZAÇÃO DAS NAÇÕES UNIDAS ",
+            "dsNacionalidade": null
+        },
+        {
+            "cdPais": 434,
+            "noPais": "Jersey Islands",
+            "noSigla": "JE",
+            "noPaisBi": null,
+            "nroDdi": null,
+            "noPaisTrad": "JERSEY",
+            "dsNacionalidade": "jersiana"
+        }
+    ],
+    "totalRegistros": 252
+}
